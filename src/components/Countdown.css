@@ -1,0 +1,16 @@
+.countdown .countBox {
+    display: flex;
+    width: 215px;
+    text-align: center;
+    direction: rtl
+}
+
+.countdown .countBox .countBoxItem {
+    flex: 1;
+}
+
+.split {
+    line-height: 58px;
+    height: 45px;
+    font-size: 18px;
+}
